@@ -1,5 +1,4 @@
-# lab5-aidoo4585
-lab5-aidoo4585 created by GitHub Classroom
+# Restful API Server-aidoo4585
 #Creating a Restful API 
 RESTful API server using Expressjs that allows the requester to receive answers to get
 access to:
